@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/webforfun/navbar-color-scroll/issues"
   },
-  "homepage": "https://github.com/webforfun/navbar-color-scroll#readme"
+  "homepage": "https://github.com/webforfun/navbar-color-scroll#readme",
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0"
+  }
 }
