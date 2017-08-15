@@ -1,0 +1,14 @@
+#hero-wrapper {
+  background-image: url('pablo-heimplatz-237945.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.fill-screen {
+  height: 100vh;
+}
+
+.gray {
+  background-color: #ddd;
+}

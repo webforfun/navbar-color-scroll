@@ -1,0 +1,19 @@
+{
+  "name": "navbar-color-scroll",
+  "version": "1.0.0",
+  "description": "Change navbar color depending on scroll position",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webforfun/navbar-color-scroll.git"
+  },
+  "author": "James Lave <james@webfor.fun>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webforfun/navbar-color-scroll/issues"
+  },
+  "homepage": "https://github.com/webforfun/navbar-color-scroll#readme"
+}
